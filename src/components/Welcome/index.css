@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: Bree Serif;
+  font-size: 60px;
+  font-weight: 600;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 35px;
+}
+.subscription-btn {
+  color: #1e293b;
+  background-color: #ffffff;
+  height: 56px;
+  width: 180px;
+  border-radius: 8px;
+  font-size: 20px;
+}
